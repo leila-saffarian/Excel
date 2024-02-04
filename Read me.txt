@@ -1,0 +1,15 @@
+This data from a telecommunications provider.
+ we will explore and analyze this data to identify customers who are likely to churn.
+
+Attributes: 
+
+state: two-letter abbreviation of the US state of customer residence
+age: customer's age
+area_code: three-digit area code
+voice_mail_plan: whether or not customer has a voicemail plan
+number_vmail_messages: number of voicemail messages
+total_day_minutes: total minutes of day calls
+total_day_calls: total number of day calls
+total_day_charge: total charge of day calls
+number_customer_service_calls: number of calls to customer service
+churn: whether the customer has churned or not
